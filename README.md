@@ -1,8 +1,8 @@
 # Wunderlist 2 - Alfred Extension
 
-With this extension you can easily add new tasks to Wunderlist using [Alfred](http://alfredapp.com). To use it you need to already have Alfred version 2 installed and you need to have a Powerpack.
+This is a fork of the Alfred to Wunderlist 2 workflow by (Sébastien Etter)[https://github.com/sebietter] that adds the task to your task list and does not just paste it into the new task field requiring the user to press the enter key to actually add it. 
 
-And older version, which is still comaptible with Alfred version 1 can be downloaded at the end of this post.
+With this extension you can easily add new tasks to Wunderlist using [Alfred](http://alfredapp.com). To use it you need to already have Alfred version 2 installed and you need to have a Powerpack.
 
 Installation
 ----
@@ -23,11 +23,3 @@ Example
 Changelog 
 ----
 
-### V 1.2
-- Changed the Alfred extension to a workflow and made it ready for Alfred 2.
-
-Old Versions
-----
-
-### V 1.1
-- For all who are still using Alfred V. 1. You can [download Version](http://d.etter.se/yGWK) 1.1 which still supports it. 

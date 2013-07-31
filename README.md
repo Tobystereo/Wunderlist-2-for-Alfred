@@ -17,8 +17,8 @@ My extension is really easy to use. You just have to keystroke **wl** followed b
 Example
 ----
 
-`wl Clean my Desk`
--> This adds a new task to your list using the name "Clean my Desk".
+`wl Clean your Desk`
+-> This adds a new task to your list using the name "Clean your Desk".
 
 Changelog 
 ----

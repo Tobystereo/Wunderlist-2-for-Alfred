@@ -4,7 +4,7 @@ This is a fork of the Alfred to Wunderlist 2 workflow by (Sébastien Etter)[http
 
 With this extension you can easily add new tasks to Wunderlist using [Alfred](http://alfredapp.com). To use it you need to already have Alfred version 2 installed and you need to have a Powerpack.
 
-![see it in action](https://github.com/Tobystereo/Wunderlist-2-for-Alfred/blob/master/assets/alfred2_wunderlist_workflow_small?raw=true)
+![see it in action](https://github.com/Tobystereo/Wunderlist-2-for-Alfred/blob/master/assets/alfred2_wunderlist_workflow_small.gif?raw=true)
 
 Installation
 ----
